@@ -62,12 +62,12 @@ $links = json_decode($social);
         <!-- Logo -->
         <a class="d-inline-flex align-items-center mb-2" href="<?php echo base_url();?>">
           <img src="<?php echo base_url();?>uploads/frontend/<?php echo $header_logo;?>" style="height:45px; width:45px;" />
-          <span class="brand brand-primary">Ekattor</span>
+          <span class="brand brand-primary"></span>
         </a>
         <!-- End Logo -->
 
         <div class="mb-4">
-          <p class="small text-muted">© 2019, Creativeitem. All rights reserved.</p>
+          <p class="small text-muted">© 2019, Tech4edKapatagan. All rights reserved.</p>
         </div>
 
         <!-- Social Networks -->
